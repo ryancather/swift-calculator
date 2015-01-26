@@ -4,5 +4,5 @@
 * [Final Version](final_version.md)
 * [Create Project](create_project.md)
 * [User Interface](user_interface.md)
-* Code
+* [Code](code.md)
 
