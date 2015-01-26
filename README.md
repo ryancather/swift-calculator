@@ -1,3 +1,3 @@
-# swift-calculator
+# Swift Calculator Tutorial
 
-This is a calculator
+Create a working calculator using the Swift programming language.
