@@ -2,6 +2,8 @@
 
 In case you need it, here's a copy of the whole ViewController.swift file at the end of the tutorial.
 
+The Github project can be found at: https://github.com/ryancather/iOS-Swift-Calculator
+
      //
      //  ViewController.swift
      //  Swift Calculator
