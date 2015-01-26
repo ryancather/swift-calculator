@@ -6,6 +6,6 @@
 * [User Interface](user_interface.md)
 * [Code](code.md)
 * [Extensions](extensions.md)
-* Extension
+* [Extension](extension.md)
 * [Complete Code](complete_code.md)
 
