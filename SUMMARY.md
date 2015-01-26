@@ -5,4 +5,5 @@
 * [Create Project](create_project.md)
 * [User Interface](user_interface.md)
 * [Code](code.md)
+* Extensions
 
